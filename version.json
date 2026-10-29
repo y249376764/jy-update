@@ -1,7 +1,7 @@
 {
   "v": 78,
   "build": 78,
-  "url": "https://cdn.jsdelivr.net/gh/y249376764/juyue@main/rules/jy.txt",
-  "note": "v78 合并版：源码/图标内置、首页加速（图标本地、更新检查 3 秒超时、首帧不联网），聚阅已移除",
+  "url": "https://fastly.jsdelivr.net/gh/y249376764/juyue@main/rules/jy.txt",
+  "note": "v78 合并版：源码/图标内置、首页加速、更新只下载一次，聚阅已移除",
   "time": "2026-10-29"
 }
