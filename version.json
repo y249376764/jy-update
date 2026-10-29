@@ -1,7 +1,7 @@
 {
-  "v": 78,
-  "build": 78,
+  "v": 79,
+  "build": 79,
   "url": "https://fastly.jsdelivr.net/gh/y249376764/juyue@main/rules/jy.txt",
-  "note": "v78 合并版：源码/图标内置、首页加速、更新只下载一次，聚阅已移除",
+  "note": "v79 小壳版：口令 210KB，首次打开下载资源包；聚阅已移除",
   "time": "2026-10-29"
 }
